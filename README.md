@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Viraj Shah</h1>
+<h1 align="center">Hello, I'm Viraj Shah 👏</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajshah30&label=Profile%20views&color=0e75b6&style=flat" alt="virajshah30" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning - Natural Language Processing - Computer Vision**
+
+- 👯 I’m looking to collaborate on **Full Stack - Cloud Based - Distributed Systems**
+
+- 📫 How to reach me **virajns2@illinois.edu**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing](https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing)
+
+- ⚡ Fun fact **I am a Co-founder of a SAAS startup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
