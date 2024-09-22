@@ -1,17 +1,14 @@
-<h1 align="center">Hello, I'm Viraj Shah 👏</h1>
-<h3 align="center">A passionate software developer</h3>
+<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=1000&color=9A62FF&center=true&vCenter=true&width=435&lines=+_%2F%5C_+NAMASTE+_%2F%5C_;Hi+I+am+Viraj!;Welcome+to+my+corner+of+the+internet!)](https://git.io/typing-svg)</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajshah30&label=Profile%20views&color=0e75b6&style=flat" alt="virajshah30" /> </p>
+🌱 I’m currently learning **Machine Learning - Natural Language Processing - Computer Vision**
 
-- 🌱 I’m currently learning **Machine Learning - Natural Language Processing - Computer Vision**
+👯 I’m looking to collaborate on **Full Stack - Cloud Based - Distributed Systems**
 
-- 👯 I’m looking to collaborate on **Full Stack - Cloud Based - Distributed Systems**
+📫 How to reach me **virajns2@illinois.edu**
 
-- 📫 How to reach me **virajns2@illinois.edu**
+📄 Know about my experiences [HERE](https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing)
 
-- 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing)
-
-- ⚡ Fun fact **I am a Co-founder of a SAAS startup**
+⚡ Fun fact **I am a Co-founder of a SAAS startup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
