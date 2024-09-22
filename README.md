@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=virajshah30&style=for-the-badge&color=blueviolet)
+
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&weight=600&size=60&duration=8000&pause=1000&color=efe5fd&center=true&vCenter=true&width=800&lines=+_%2F%5C_+NAMASTE+_%2F%5C_;Hi+I+am+Viraj!" alt="Typing SVG" /></a></p>
 
 >[!IMPORTANT]\
