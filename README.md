@@ -19,12 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=VirajShah30">
-    <img src="https://stats.quira.sh/VirajShah30/github?theme=dark" alt="VirajShah30's GitHub | Stats" width="400"/>
+    <img src="https://stats.quira.sh/VirajShah30/github?theme=dark" alt="VirajShah30's GitHub | Stats" width="320"/>
   </a>
-  
-</p>
+ </p>
 
 
 
