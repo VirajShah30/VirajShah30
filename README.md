@@ -1,14 +1,10 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fire+Coda&weight=600&size=30&duration=8000&pause=1000&color=9A62FF&center=true&vCenter=true&width=800&lines=+_%2F%5C_+NAMASTE+_%2F%5C_;Hi+I+am+Viraj!;Welcome+to+my+corner+of+the+internet!" alt="Typing SVG" /></a></p>
 
-🌱 I’m currently learning **Machine Learning - Natural Language Processing - Computer Vision**
-
-👯 I’m looking to collaborate on **Full Stack - Cloud Based - Distributed Systems**
-
-📫 How to reach me **virajns2@illinois.edu**
-
-📄 Know about my experiences [HERE](https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing)
-
-⚡ Fun fact **I am a Co-founder of a SAAS startup**
+>I’m currently learning **Machine Learning | Natural Language Processing | Computer Vision**<be>
+>I’m looking to collaborate on **Full Stack | Cloud Computing | Distributed Systems ** <be>
+>How to reach me **virajns2@illinois.edu** <be>
+>Know about my experiences [HERE](https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing) <be>
+>Fun fact **I am a Co-founder of a SAAS startup** <br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
