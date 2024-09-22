@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **virajns2@illinois.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing](https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing)
+- 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Co-founder of a SAAS startup**
 
