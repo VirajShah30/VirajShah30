@@ -5,7 +5,7 @@
 >[!IMPORTANT]\
 >I’m currently learning **Machine Learning | Natural Language Processing | Computer Vision** <br>
 >I’m looking to collaborate on **Full Stack | Cloud Computing | Distributed Systems** <br>
->Know about my experiences [HERE](https://drive.google.com/file/d/1H38Q_RQowQ0NNFDZUnWfGwAbrBvcOHx0/view?usp=sharing) <br>
+>Know about my experiences [HERE](https://drive.google.com/file/d/1ymF3MpfxDnt9f8qoKc2Ny1XYFGWlUt-K/view?usp=sharing) <br>
 >Fun fact **I am a Co-founder of a SAAS startup** <br>
 
 <h3 align="center">Connect with me:</h3>
