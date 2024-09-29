@@ -26,14 +26,14 @@
 
 ### **TECHNICAL SKILLS**
 
-**Programming Languages:**
+**Programming Languages:** <br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23476A98.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks:**
+**Frameworks:** <br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -46,7 +46,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Databases:**
+**Databases:** <br>
 ![Amazon DynamoDB](https://img.shields.io/badge/amazon%20dynamodb-%23232F3E.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/neo4j-%2300AFAA.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Google Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -54,7 +54,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ObjectBox](https://img.shields.io/badge/objectbox-%23161616.svg?style=for-the-badge&logo=objectbox&logoColor=white)
 
-**Miscellaneous:**
+**Miscellaneous:** <br>
 ![AWS SageMaker](https://img.shields.io/badge/AWS-SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
